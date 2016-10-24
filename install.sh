@@ -12,10 +12,10 @@ export PATH
 #授权文件自动生成url
 APX=http://www.ywnas.com/apxkey.php
 #安装包下载地址
-INSTALLPACK=https://raw.githubusercontent.com/ywnas/serverspeeder/master/serverspeeder.tar.gz
+INSTALLPACK=https://raw.githubusercontent.com/16416112/serverspeeder/master/serverspeeder.tar.gz
 #bin下载地址
 BIN=downloadurl
-BinURL=https://raw.githubusercontent.com/ywnas/serverspeeder/master
+BinURL=https://raw.githubusercontent.com/16416112/serverspeeder/master/
 
 cur_dir=`pwd`/serverspeeder-tmp
 if [ ! -d "${cur_dir}" ]; then
